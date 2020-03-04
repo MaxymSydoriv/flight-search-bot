@@ -1,0 +1,1071 @@
+[ {
+  "airline" : "LH",
+  "flightNumber" : 1182,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LH",
+    "aircraftType" : "32N",
+    "aircraftConfigurationVersion" : "C180",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 280,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 400,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 335,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 455,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "ET1584/LX3613/NH6249"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 1184,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "CL",
+    "aircraftType" : "E90",
+    "aircraftConfigurationVersion" : "C100",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 340,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 460,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 395,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 515,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 9,
+    "value" : "CL"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "AC9000/LX3601/SA7583/UA9032"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 1186,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LH",
+    "aircraftType" : "32A",
+    "aircraftConfigurationVersion" : "C168",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 460,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 580,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 515,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 635,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "AC9024/CA6069/LX3603/SA7583/UA9030"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 1186,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LH",
+    "aircraftType" : "32A",
+    "aircraftConfigurationVersion" : "C168",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 460,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 580,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 515,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 635,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "AC9024/CA6069/LX3603/UA9030"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 1190,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "CL",
+    "aircraftType" : "E90",
+    "aircraftConfigurationVersion" : "C100",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 660,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 780,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 715,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 835,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 9,
+    "value" : "CL"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "AC9028/LX3605/UA9008"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 1190,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LH",
+    "aircraftType" : "319",
+    "aircraftConfigurationVersion" : "C138",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 660,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 780,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 715,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 835,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "AC9028/LX3605/UA9008"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 1196,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "CL",
+    "aircraftType" : "E90",
+    "aircraftConfigurationVersion" : "C100",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 865,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 985,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 920,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 1040,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 9,
+    "value" : "CL"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "LX3609/UA8876"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 1198,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LH",
+    "aircraftType" : "319",
+    "aircraftConfigurationVersion" : "C138",
+    "registration" : "",
+    "op" : true,
+    "aircraftDepartureTimeUTC" : 985,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 1105,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 1040,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 1160,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 10,
+    "value" : "CA6213/LA8665/LX3611/NH6101"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JO/CO/DO/ZO/PO/YR/BR/MR/UR/HR/QR/VR/WR/SR/TR/LR/KR"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 5770,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LX",
+    "aircraftType" : "223",
+    "aircraftConfigurationVersion" : "C999M999",
+    "registration" : "",
+    "op" : false,
+    "aircraftDepartureTimeUTC" : 405,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 525,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 460,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 580,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 2,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 4,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 5,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 50,
+    "value" : "LX1069"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JM/CM/DM/ZM/PM"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 503,
+    "value" : "9"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 5770,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LX",
+    "aircraftType" : "320",
+    "aircraftConfigurationVersion" : "C999M999",
+    "registration" : "",
+    "op" : false,
+    "aircraftDepartureTimeUTC" : 405,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 525,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 460,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 580,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 2,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 4,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 5,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 50,
+    "value" : "LX1069"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JM/CM/DM/ZM/PM"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 503,
+    "value" : "9"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 5774,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LX",
+    "aircraftType" : "221",
+    "aircraftConfigurationVersion" : "C999M999",
+    "registration" : "",
+    "op" : false,
+    "aircraftDepartureTimeUTC" : 735,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 855,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 790,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 910,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 2,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 4,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 5,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 50,
+    "value" : "LX1073"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JM/CM/DM/ZM/PM"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 503,
+    "value" : "9"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 5774,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "2L",
+    "aircraftType" : "290",
+    "aircraftConfigurationVersion" : "C999M999",
+    "registration" : "",
+    "op" : false,
+    "aircraftDepartureTimeUTC" : 735,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 855,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 790,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 910,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 2,
+    "value" : "2L"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 4,
+    "value" : "2L"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 5,
+    "value" : "2L"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 50,
+    "value" : "LX1073"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JM/CM/DM/ZM/PM"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 503,
+    "value" : "9"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 5776,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : "12     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "2L",
+    "aircraftType" : "E90",
+    "aircraftConfigurationVersion" : "C999M999",
+    "registration" : "",
+    "op" : false,
+    "aircraftDepartureTimeUTC" : 920,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 1040,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 980,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 1100,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 2,
+    "value" : "2L"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 4,
+    "value" : "2L"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 5,
+    "value" : "2L"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 50,
+    "value" : "LX1075"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JM/CM/DM/ZM/PM"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 503,
+    "value" : "9"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 5778,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "01JUN20",
+    "endDate" : "01JUN20",
+    "daysOfOperation" : "1      "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LX",
+    "aircraftType" : "320",
+    "aircraftConfigurationVersion" : "C999M999",
+    "registration" : "",
+    "op" : false,
+    "aircraftDepartureTimeUTC" : 1130,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 1250,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 1185,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 1305,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 2,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 4,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 5,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 50,
+    "value" : "LX1077"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JM/CM/DM/ZM/PM"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 503,
+    "value" : "9"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+}, {
+  "airline" : "LH",
+  "flightNumber" : 5778,
+  "suffix" : "",
+  "periodOfOperationUTC" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "periodOfOperationLT" : {
+    "startDate" : "02JUN20",
+    "endDate" : "02JUN20",
+    "daysOfOperation" : " 2     "
+  },
+  "legs" : [ {
+    "sequenceNumber" : 1,
+    "origin" : "FRA",
+    "destination" : "ZRH",
+    "serviceType" : "J",
+    "aircraftOwner" : "LX",
+    "aircraftType" : "221",
+    "aircraftConfigurationVersion" : "C999M999",
+    "registration" : "",
+    "op" : false,
+    "aircraftDepartureTimeUTC" : 1130,
+    "aircraftDepartureTimeDateDiffUTC" : 0,
+    "aircraftDepartureTimeLT" : 1250,
+    "aircraftDepartureTimeDateDiffLT" : 0,
+    "aircraftDepartureTimeVariation" : 120,
+    "aircraftArrivalTimeUTC" : 1185,
+    "aircraftArrivalTimeDateDiffUTC" : 0,
+    "aircraftArrivalTimeLT" : 1305,
+    "aircraftArrivalTimeDateDiffLT" : 0,
+    "aircraftArrivalTimeVariation" : 120
+  } ],
+  "dataElements" : [ {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 2,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 4,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 5,
+    "value" : "LX"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 50,
+    "value" : "LX1077"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 99,
+    "value" : "1"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 106,
+    "value" : "JCDZPYBMUHQVWSTLK"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 109,
+    "value" : "JM/CM/DM/ZM/PM"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 503,
+    "value" : "9"
+  }, {
+    "startLegSequenceNumber" : 1,
+    "endLegSequenceNumber" : 1,
+    "id" : 505,
+    "value" : "ET"
+  } ]
+} ]

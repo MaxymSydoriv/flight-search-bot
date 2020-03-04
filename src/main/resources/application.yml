@@ -1,0 +1,50 @@
+lufthansa:
+  api:
+    url: https://api.lufthansa.com/v1
+    auth:
+      client_id: e74krvfbvpcg7uyzbzbwgvrv
+      secret: J9fJVhkRs6
+      grant_type: client_credentials
+
+gcp:
+  maps:
+    url: https://maps.googleapis.com/maps/api
+    geocode:
+      apikey: AIzaSyCPJ-IH_0zcEthH48IiRsEFRXx0vKWKcYk
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+        loggerLevel: BASIC
+
+spring:
+  jackson:
+    deserialization:
+      fail-on-unknown-properties: false
+
+  datasource:
+    url: jdbc:mysql://flight-bot-db.c9i5hyirefcz.us-east-1.rds.amazonaws.com:3306/flight-search-bot-schema
+    password: password
+    username: admin
+    driver-class-name: "com.mysql.cj.jdbc.Driver"
+  jpa:
+    show-sql: true
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    hibernate:
+      ddl-auto: update
+
+facebook:
+  messenger:
+    access-token: EAACuZAQQzty0BAIj3a5u8L9XFqZClxwcWgO8PxGgquXiEFWTquSlZBOfBxmqZCnAFlJGUntE4SoCv2GrhqW2r1bAZApb3BGlY36ZB2qV4MGuPHHodXCNKewNZAYhULdT7DGBicGYSfCzmtvUey8f91QSl0HcO8BDdhjHpKDaTDHZB8h6kkVK6Ltf
+    verify-token: flight-search-bot-verification-token-2020
+
+nlp:
+  provider:
+    type: DIALOG_FLOW_V2
+    dialog-flow:
+      v2:
+        projectId: flightsearchbot-wgfihp
+        accessToken: eb14585367b04dde879d887211a25fcc
